@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "217197863381",
+    "project_id": "raavilasociallogin-669d1",
+    "storage_bucket": "raavilasociallogin-669d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217197863381:android:216f7583d74ab9770b9d5c",
+        "android_client_info": {
+          "package_name": "com.app.raavila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217197863381-l3cthto5tgquip3h92nc6aj4oe3t5nkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.raavila",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADsANRxE01Z0VC9RigAXqiu0IPOmhyI-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217197863381-187qo3k8qquqrfudtqtv1uj3k7n2beaa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217197863381-0fnkj5s39gq6puvon1dj7v49hardc4sg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.orangemantra.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
